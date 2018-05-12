@@ -1,0 +1,26 @@
+_repo: Gedichten_15273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bastiaanse, Frans
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '5972'
+    url: http://www.gutenberg.org/2009/agents/5972
+description: ''
+gutenberg_issued: '2005-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15273'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+title: Gedichten
+url: http://www.gutenberg.org/ebooks/15273
